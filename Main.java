@@ -139,7 +139,5 @@ public class Main{
       default:
         System.out.printf("Invalid command.\n");
     }
-
-    scanner.close();
   }
 }
